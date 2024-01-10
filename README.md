@@ -11,7 +11,9 @@ Click the file named "Sal-Ulator.apk" and click the download button on the top r
 Download the MIT App Companion on App Store and launch it, you can scanned to download the app. Click the file named "Sal-Ulator for iphone.jpg" you can use it to scan to download the app.
 
 > Note:
+
 > Avoid if there was a bug on the QR
+
 > QR is only available for 2 hours start now **_(9:50 pm January 10, 2024)_** 
 
 ## Member
