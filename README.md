@@ -25,4 +25,7 @@ Download the MIT App Companion on App Store and launch it, you can scanned to do
 * Member: Rhobert Angelo S. Mic / Email: 8215901@ntc.edu.ph
 * Member: Justine Felix V. Fundal / Email: 8213339@ntc.ph.edu
 * Member: Christian A. Gomez / Email: 8213710@ntc.edu.ph
-* Member: Persieval Angelo T. Baldono / Email: 8215295@ntc.edu.ph 
+* Member: Persieval Angelo T. Baldono / Email: 8215295@ntc.edu.ph
+
+## License
+This project is licensed under the MIT License - see the LICENSE.md file for details
