@@ -11,4 +11,4 @@ The Salary Calculator app or "SAL-ULATOR" in short, is an application where it c
 * Member: Rhobert Angelo S. Mic / Email: 8215901@ntc.edu.ph
 * Member: Justine Felix V. Fundal / Email: 8213339@ntc.ph.edu
 * Member: Christian A. Gomez / Email: 8213710@ntc.edu.ph
-* Member: Persieval Angelo Baldono / Email:   
+* Member: Persieval Angelo T. Baldono / Email: 8215295@ntc.edu.ph 
