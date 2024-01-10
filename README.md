@@ -8,9 +8,11 @@ The Salary Calculator app or "SAL-ULATOR" in short, is an application where it c
 ### For Android users: 
 Click the file named "Sal-Ulator.apk" and click the download button on the top right side(Desktop/Mobile site)
 ### For Iphone users: 
-Download the MIT App Companion on App Store and launch it, you can scanned or use the Code under the QR to download. Click the file named "Sal-Ulator for iphone" you can use it to scan or use the code to download the app.
+Download the MIT App Companion on App Store and launch it, you can scanned to download the app. Click the file named "Sal-Ulator for iphone.jpg" you can use it to scan to download the app.
 
-Avoid if there was a bug on the QR 
+> Note:
+> Avoid if there was a bug on the QR
+> QR is only available for 2 hours start now **_(9:50 pm January 10, 2024)_** 
 
 ## Member
 * Leader: Stephen David Q. Condino / Email: 8215348@ntc.edu.ph 
