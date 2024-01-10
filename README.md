@@ -14,7 +14,7 @@ Download the MIT App Companion on App Store and launch it, you can scanned to do
 
 > Avoid if there was a bug on the QR
 
-> QR is only available for 2 hours start now **_(9:50 pm January 10, 2024)_** 
+> QR is only available for 2 hours start on **_(9:50 pm January 10, 2024)_** 
 
 ## Member
 * Leader: Stephen David Q. Condino / Email: 8215348@ntc.edu.ph 
